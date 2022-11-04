@@ -2,4 +2,21 @@
     background-color: pink;
     color: green;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    font-weight: 900;
+}
+.li-one {
+    background-color: rgb(134, 244, 244);
+    color: rgb(242, 132, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.li-two {
+    background-color: rgb(142, 254, 217);
+    color: rgb(245, 255, 98);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.li-one,
+.li-two {
+    font-size: 50px;
+    font-weight: 500;
 }
